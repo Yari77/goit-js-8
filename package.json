@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@vimeo/player": "^2.20.1",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.14.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
